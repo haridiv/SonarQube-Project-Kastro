@@ -84,4 +84,4 @@ Similarly configure dockerhub credentials with id as "dockerhub-credentials" wit
 Manage Jenkins --- System --- Scroll down to 'SonarQube servers' --- Click on 'Add SonarQube' --- Name: sonar-server --- ServerURL: <PublicIPofSQinstalledVM>:9000 --- Server Authentication Token: select 'sonar-token' --- Apply --- Save
 
 
-<For the next steps, please watch the video>
+AFTER THAT CREAT JENKINS PIPELINE
